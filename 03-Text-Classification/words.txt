@@ -1,0 +1,10 @@
+
+this is a text file, you are reading for Python NLP Data Science skills.
+
+The cat in the hat would like some tea, milk and sugar of course.
+Summers are hot and winters are cold, roses are red we are told. 
+pip install this package and enter to win a coupon ! 
+
+random this and random that, read this with caution, results may vary.
+
+Gutenberg press is a place to go for books to practice NLP. 
